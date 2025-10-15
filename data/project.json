@@ -24,11 +24,21 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Video",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Black Girl Trailer",
+          "category": "Video"
+        }
+      ]
     },
     "created_at": "2025-10-15T20:33:07.872Z",
-    "updated_at": "2025-10-15T20:34:15.874Z",
+    "updated_at": "2025-10-15T20:36:57.520Z",
     "generate_pages_site": true
   },
   "annotations": {},
