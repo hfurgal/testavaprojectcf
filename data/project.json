@@ -26,19 +26,23 @@
     "tags": {
       "tagGroups": [
         {
-          "category": "Video",
+          "category": "Transcript",
           "color": "#ADFFD9"
         }
       ],
       "tags": [
         {
-          "tag": "Black Girl Trailer",
-          "category": "Video"
+          "tag": "French audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "English subtitles",
+          "category": "Transcript"
         }
       ]
     },
     "created_at": "2025-10-15T20:33:07.872Z",
-    "updated_at": "2025-10-15T20:36:57.520Z",
+    "updated_at": "2025-10-15T20:39:24.450Z",
     "generate_pages_site": true
   },
   "annotations": {},
