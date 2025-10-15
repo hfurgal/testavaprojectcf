@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "hfurgal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238340969?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "hfurgal",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-15T20:33:07.872Z",
-    "updated_at": "2025-10-15T20:33:07.872Z"
-  }
+    "updated_at": "2025-10-15T20:33:07.872Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "2d3735a4-be27-44d3-94e5-e5743d514539": {
+      "content": [],
+      "created_at": "2025-10-15T20:33:07.892Z",
+      "created_by": "hfurgal",
+      "title": "Testing AVAnnotate",
+      "updated_at": "2025-10-15T20:33:07.892Z",
+      "updated_by": "hfurgal",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "2d3735a4-be27-44d3-94e5-e5743d514539"
+  ]
 }
